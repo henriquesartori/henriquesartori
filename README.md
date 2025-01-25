@@ -1,6 +1,6 @@
 # Henrique Sartori
 
-Full Stack Developer, in love with coding since 7 years old!
+Full Stack Developer, in love with coding since 9 years old!
 
 I focus on building user-driven solutions (UDD), deeply understanding the core needs of users to deliver efficient applications that provide meaningful experiences.
 
