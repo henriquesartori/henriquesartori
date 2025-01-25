@@ -1,10 +1,10 @@
 # Henrique Sartori
 
-Full Stack Developer, in love with coding since 7 years old.
+Full Stack Developer, in love with coding since 7 years old!
 
-I focus on creating solutions that are truly user-driven (UDD), aiming to understand the core needs of users and deliver efficient applications that provide a meaningful experience.
+I focus on building user-driven solutions (UDD), deeply understanding the core needs of users to deliver efficient applications that provide meaningful experiences.
 
-I also have long term expertise working under agile methodologies (Agile, Scrum, Kanban) with plenty different tech stacks and databases.
+With extensive experience working within agile methodologies (Agile, Scrum, Kanban), I’ve successfully navigated diverse tech stacks and databases to create high-quality software.
 
 ## Favorite Tech
 
