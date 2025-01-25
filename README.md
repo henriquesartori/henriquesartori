@@ -8,11 +8,11 @@ With extensive experience working within agile methodologies (Agile, Scrum, Kanb
 
 ## Favorite Tech
 
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,next,nest,django,fastapi,laravel,spring,astro,rails,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,next,nest,django,fastapi,laravel,spring,astro,docker)](https://skillicons.dev)
 
 ## Favorite Languages
 
-[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,python,php,java,go,ruby,firebase,mysql,postgresql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,python,php,java,go,firebase,mysql,postgresql,mongodb)](https://skillicons.dev)
 
 ___
 
